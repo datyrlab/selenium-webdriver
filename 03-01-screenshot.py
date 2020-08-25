@@ -1,9 +1,20 @@
 #!/usr/bin/python3
 
 ######################################
-# datyrlab
 # Selenium Python - Automate a screenshot of a web page - Part 3.1
 # https://youtu.be/5douXMrgTfM
+# 0:00 - copy script from previous tutorial
+# 1:21 - tidy script by adding easy to follow comments 
+# 4:45 - store driver.title into a variable to use it for our screenshot filename
+# 7:18 - make directory to capture screenshot image file
+# 8:59 - add screenshots to other key places
+# 10:53 - run script
+# 11:37 - check for screenshots saved in directory
+
+# script: https://github.com/datyrlab/selenium-webdriver/blob/master/03-01-screenshot.py
+
+# Selenium Python - Click a page element - Part 2
+# https://youtu.be/mU1gVBYFuOk
 
 # https://twitter.com/datyrlab
 ######################################

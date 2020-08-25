@@ -1,9 +1,19 @@
 #!/usr/bin/python3
 
 ######################################
-# datyrlab
 # Selenium Python - Automate a login to a web site - Part 4
 # https://youtu.be/Bw9ueo7qFmY
+# 00:00 - intro
+# 00:44 - copy and tidy script from previous tutorial. Plus, import module colorama
+# 14:34 - continuing with automating the imdb.com website, code to click from sign-in option page to sign-in form
+# 21:51 - code to automate completion of the sign-in form page. Form fields email, password and submit button
+# 34:23 - run partial code to test click from the sign-in option page to sign-in form
+# 39:24 - run full code, successful login to the imdb.com website
+
+# script: https://github.com/datyrlab/selenium-webdriver/blob/master/04-automate-web-login.py
+
+# Selenium Python - Run remote headless and screenshot a full web page - Part 3.2
+# https://youtu.be/IT4aiNxWYEw
 
 # https://twitter.com/datyrlab
 ######################################

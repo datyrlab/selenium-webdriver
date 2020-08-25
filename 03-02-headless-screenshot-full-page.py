@@ -1,9 +1,21 @@
 #!/usr/bin/python3
 
 ######################################
-# datyrlab
 # Selenium Python - Run remote headless and screenshot a full web page - Part 3.2
 # https://youtu.be/IT4aiNxWYEw
+# 00:00 - intro
+# 01:25 - copy python script from last screenshot tutorial
+# 02:30 - update script, import module pyvirtualdisplay to run Selenium as headless
+# 04:19 - create a pyvirtualdisplay instance, configure settings to enable/ disable headless and create a custom screen size 
+# 09:03 - run script with virtual display in visible mode
+# 10:54 - run script with virtual display in headless mode (raising error dependant library Xvfb missing)
+# 11:35 - install dependant library Xvfb required to run pyvirtualdisplay in headless mode
+# 13:05 - run script with virtual display in headless mode for successful full length web page screenshot
+
+# script: https://github.com/datyrlab/selenium-webdriver/blob/master/03-02-headless-screenshot-full-page.py
+
+# Selenium Python - Automate a screenshot of a web page - Part 3.1
+# https://youtu.be/5douXMrgTfM
 
 # https://twitter.com/datyrlab
 ######################################
