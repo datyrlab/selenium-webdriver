@@ -10,7 +10,7 @@
 # 19:21 - install Selenium
 # 20:21 - create a directory and python test script
 # The last few minutes of the video was cut off (I should have checked after editing)
-# I also did an initial part 1a for chromium browser instead of google-chrome. 
+# I also did an initial Part 1a for chromium browser instead of google-chrome. 
 # For the full script and demo you can also follow Part 1a from here, https://youtu.be/_qd--H1jBbw?t=299 (script at 4 min 59 sec, and demo at 17 min 14 sec)
 # Full continuation of the script and a demo can also be followed in Part 2: https://youtu.be/mU1gVBYFuOk (script at 7 min 29 sec)
 

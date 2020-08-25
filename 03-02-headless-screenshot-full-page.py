@@ -14,6 +14,9 @@
 
 # script: https://github.com/datyrlab/selenium-webdriver/blob/master/03-02-headless-screenshot-full-page.py
 
+# install dependancies
+# sudo pip3 install pyvirtualdisplay
+
 # Selenium Python - Automate a screenshot of a web page - Part 3.1
 # https://youtu.be/5douXMrgTfM
 

@@ -12,6 +12,10 @@
 
 # script: https://github.com/datyrlab/selenium-webdriver/blob/master/04-automate-web-login.py
 
+# install dependancies
+# sudo pip3 install colorama
+# sudo pip3 install pyvirtualdisplay
+
 # Selenium Python - Run remote headless and screenshot a full web page - Part 3.2
 # https://youtu.be/IT4aiNxWYEw
 
